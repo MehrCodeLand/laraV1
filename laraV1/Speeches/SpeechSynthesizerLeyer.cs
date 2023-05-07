@@ -9,6 +9,6 @@ namespace laraV1.Speeches
 {
     public class SpeechSynthesizerLeyer
     {
-        SpeechSynthesizer speek = new SpeechSynthesizer();WeakReference 
+        SpeechSynthesizer speek = new SpeechSynthesizer();
     }
 }
